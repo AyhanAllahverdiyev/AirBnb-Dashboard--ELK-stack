@@ -20,7 +20,7 @@ This project demonstrates the creation of a comprehensive data visualization das
 - [Usage](#usage)
 - [Flutter App](#flutter-app)
 - [Contributions](#contributions)
-- [License](#license)
+
 
 ## Introduction
 
