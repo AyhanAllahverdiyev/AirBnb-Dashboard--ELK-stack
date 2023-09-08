@@ -46,14 +46,14 @@ This project showcases the integration of Elasticsearch, Logstash, and Kibana to
 ## Setup
 
 1. Clone this repository to your local machine.
-2. Set up Elasticsearch, Logstash, and Kibana as per your environment. [Provide relevant links or instructions if necessary]
-3. Import the Airbnb sample dataset into Elasticsearch using Logstash configurations [Include necessary steps].
-4. Import the Kibana dashboard configuration to visualize the data [Include necessary steps].
-5. Build and run the Flutter app on your desired platform [Include necessary steps].
+2. Set up Elasticsearch, Logstash, and Kibana as per your environment.  
+3. Import the Airbnb sample dataset into Elasticsearch using Logstash configurations 
+4. Import the Kibana dashboard configuration to visualize the data  
+5. Build and run the Flutter app on your desired platform
 
 ## Usage
 
-- Access the Kibana dashboard through your web browser [Include URL].
+- Access the Kibana dashboard through your web browser 
 - Explore various visualizations and apply filters to interact with the data.
 - Use the Flutter app to input queries and retrieve data from Elasticsearch.
 - Paging support in the Flutter app ensures smooth navigation through query results.
