@@ -4,6 +4,8 @@
 ![Screenshot 2023-08-31 120049](https://github.com/AyhanAllahverdiyev/ElasticSearch-Kibana-Logstash-/assets/115575562/ddcc100f-0321-4fcb-a5ac-5b1ec430d47c)
 ![Screenshot 2023-08-31 115036](https://github.com/AyhanAllahverdiyev/ElasticSearch-Kibana-Logstash-/assets/115575562/dfb10e80-516d-4265-aee2-1167f9b28bcb)
 ![Screenshot 2023-08-31 162100](https://github.com/AyhanAllahverdiyev/ElasticSearch-Kibana-Logstash-/assets/115575562/a7512e24-a86d-4eaf-9205-fd975a7525dc)
+![image](https://github.com/AyhanAllahverdiyev/ElasticSearch-Kibana-Logstash-/assets/115575562/12c0187a-c7af-4d5a-990b-ac68f666099e)
+
 
 
 
